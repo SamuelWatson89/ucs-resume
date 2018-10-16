@@ -22,12 +22,16 @@
     background-color: #525252;
 }
 
+.bg-color-three-reasons {
+    background-color: #fff;
+}
+
 /* Special Styling */
 
 h1,
 h2,
 h3,
-h4, {
+h4 {
     margin: 0;
 }
 
@@ -44,6 +48,23 @@ h4, {
 
 .inline-block{
     display: inline-block;
+}
+
+.section-column {
+    padding: 0 30px 30px;
+    float: none;
+    display: table-cell;
+}
+
+.row-table {
+    display: table;
+}
+
+.section-heading {
+    font-family: "exo", sans-serif;
+    font-weight: 300;
+    margin-top: 5px;
+    margin-bottom: 40px;
 }
 
 /* Heading */
