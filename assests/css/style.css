@@ -222,3 +222,9 @@ footer .cv-pdf i:hover {
     margin-bottom: 15px;
     
 }
+
+/* Personal info */
+
+.bg-color-personal-info {
+    background: #f4f4f4;
+}
