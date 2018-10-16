@@ -2,6 +2,10 @@
 
 /* Colours */
 
+body {
+    background-color: #525252;
+}
+
 .bg-color-name-title {
     background-color: #676767;
 }
@@ -204,4 +208,17 @@ footer .cv-pdf i:hover {
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
+}
+
+
+/* three seasons */
+
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+
+.three-reasons-heading: {
+    margin-bottom: 15px;
+    
 }
